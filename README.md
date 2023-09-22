@@ -24,7 +24,7 @@ As part of my coursework, I completed several projects that allowed me to apply 
 
 ### Project 1: [Data Literacy and BI Tools]
 
-![Project 1](Business-Intelligence\Project-1\Assessment-Dashboard.pdf)
+![Project 1](Business-Intelligence\Project-1\Assessment-Dashboard.jpg)
 This project, examines gender inequality in Australia, focusing on income disparities, employment status, and education levels using 2016 Australian Census data. The project includes a comprehensive dashboard created with Power BI that visualizes key findings, highlighting the challenges and potential solutions related to gender equality in the Australian workforce. Excel was utilized for data preprocessing and analysis. Through data analysis, the project sheds light on the need for businesses to address social issues like gender inequality, not only for societal benefit but also for potential business growth by tapping into a more diverse consumer market.
 ![See more](Business-Intelligence\Project-1)
 
