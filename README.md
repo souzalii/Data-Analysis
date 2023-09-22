@@ -22,16 +22,20 @@ The core subjects I engaged with encompassed:
 
 As part of my coursework, I completed several projects that allowed me to apply the knowledge gained in practical scenarios. Here are brief descriptions of a few of them:
 
-### Project 1: [Data Literacy and BI Tools]
+### Project 1: [Data Literacy and BI Tools](Business-Intelligence/Project-1)
 
 ![Project 1](Business-Intelligence/Project-1/Assessment-Dashboard.jpg)
+
 This project, examines gender inequality in Australia, focusing on income disparities, employment status, and education levels using 2016 Australian Census data. The project includes a comprehensive dashboard created with Power BI that visualizes key findings, highlighting the challenges and potential solutions related to gender equality in the Australian workforce. Excel was utilized for data preprocessing and analysis. Through data analysis, the project sheds light on the need for businesses to address social issues like gender inequality, not only for societal benefit but also for potential business growth by tapping into a more diverse consumer market.
-![See more](Business-Intelligence\Project-1)
 
-### Project 2: [Project Name]
+[See more](Business-Intelligence/Project-1)
 
-![Project 2](https://github.com/souzalii/Data-Analysis/blob/main/Business%20Intelligence/Project-2/Dashboard_page-0001.jpg)
-Description: Provide a brief overview of the project, its goals, and the skills/tools you used to complete it.
+### Project 2: [Analysis of Used Car Price Variations in the UK]
+
+![Project 2](Business-Intelligence/Project-2/Dashboard_page-0001.jpg)
+This project, focuses on evaluating factors affecting the average price of used cars in the United Kingdom. The project investigates key variables such as average price, miles per gallon (mpg), fuel type, tax classification, and transmission type to identify patterns and trends. Data analysis and visualization were performed using Power BI, and advanced statistical analyses were conducted using R to gain deeper insights into the UK used car market.
+
+[See more](Business-Intelligence/Project-2)
 
 ### Project 3: [Project Name]
 
