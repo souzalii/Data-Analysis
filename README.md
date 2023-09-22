@@ -45,7 +45,7 @@ I applied association rule mining to a job advertisement dataset, extracting val
 
 ![Project 3](Data-Warehousing/powerbi-analysis.jpg)
 
-[See more](Data-Warehousing/star-schema.jpg)
+[See more](Data-Warehousing)
 
 Feel free to explore this repository to learn more about my academic journey and the projects I've worked on. If you have any questions or would like to connect, please don't hesitate to reach out.
 
